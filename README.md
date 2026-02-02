@@ -10,8 +10,8 @@ Employee attrition is a major challenge for organizations as it leads to increas
 Understanding the factors that influence employee turnover can help organizations improve employee retention and decision-making.
 
 ## Team Members
-Layan 
-Raneem 
-Dania
-Zaina
+Layan |
+Raneem |
+Dania |
+Zaina |
 Fatma
