@@ -1,4 +1,4 @@
-# IT326-DataMining-Project
+# Employee-Attrition-DataMining
 Employee Attrition Analysis Using Data Mining Techniques
 
 ## Project Description
